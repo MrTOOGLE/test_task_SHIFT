@@ -1,3 +1,6 @@
 out/
 src/META-INF/
 .idea/
+input_files/
+output/
+/src/BETA.java
